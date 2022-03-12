@@ -22,7 +22,7 @@ Algoritms: https://github.com/iStormSpirit/YandexAlgoritms
 
 ## HTML
 
-1. Проект: **HTML сайт**(знакомство с html и css): https://github.com/iStormSpirit/HTML1lab
+1. Проект: **HTML сайт** (знакомство с html и css): https://github.com/iStormSpirit/HTML1lab
 
 <!--
 **iStormSpirit/iStormSpirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
