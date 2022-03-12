@@ -3,6 +3,7 @@
 <h3 align="center">currently a student at Yandex.Practicum majoring in algorithms</h3>
 
 ### Примеры решенных алгоримических задач при обучении в [Яндекс.Практикум](practicum.yandex.ru/algorithms/)
+https://github.com/iStormSpirit/YandexAlgoritms
 
 ### Мои учебные проекты при обучении в [Специалисте при МГТУ им. Н.Э.Баумана](https://www.specialist.ru/)
 #### `проекты расположены по убыванию сложности`
