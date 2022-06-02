@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm George</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">currently a student at Yandex.Practicum majoring in algorithms</h3>
+<!-- <h3 align="center">currently a student at Yandex.Practicum majoring in algorithms</h3> -->
 
 ### Примеры решенных алгоримических задач при обучении в [Яндекс.Практикум](practicum.yandex.ru/algorithms/)
 Algoritms: https://github.com/iStormSpirit/YandexAlgoritms
